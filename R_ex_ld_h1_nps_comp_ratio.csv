@@ -1,0 +1,2 @@
+"term","contrast","estimate","std.error","statistic","p.value","s.value","conf.low","conf.high","predicted_lo","predicted_hi","predicted"
+"text_fac_scientist","mean(StaffPart) / mean(NonStaffPart)",1.16654239193284,0.0377474923505147,30.9038380907688,1.06073703740251e-209,694.197904782987,1.09255866641913,1.24052611744655,0.670948257085988,0.736957771885635,0.670948257085988
